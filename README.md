@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+This project is part of the learning project provided by DataCamp.
+
 Twitter has an undeniable influence on global communication, shaping the thoughts and moods of people around the world. From significant events to trending topics, Twitter-storms offer a unique opportunity for real-time analysis of public sentiment and global thought patterns.
 
 This project focuses on exploring Twitter data to uncover insights into these thought patterns, both locally and globally. While Twitter's API typically requires authentication to access data, we've simplified the process by providing a pre-collected dataset in the `datasets` folder. This allows us to dive straight into the analysis, bypassing the usual data collection hurdles.
