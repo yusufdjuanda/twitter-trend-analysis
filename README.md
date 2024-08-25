@@ -1,5 +1,6 @@
 # Twitter Data Analysis: Local and Global Thought Patterns
 
+
 ## Project Overview
 
 This project is part of the learning project provided by DataCamp.
